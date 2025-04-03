@@ -94,6 +94,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - Detection Lab
 - SOC Automation Project
 - Dynamic Network Inventory System
+- Network automation labs
 - Automated Network Security Auditing
 - Network Device Health Monitoring & Alerting
 - SOC Playbook Automation with SOAR
