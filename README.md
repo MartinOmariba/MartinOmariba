@@ -18,7 +18,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-| Network protovols configuration i.e EIGRP,OSPF,BGP,SPANNING TREE,WIRELESS,NAT| Networking labs|
+| Network protovols configuration i.e EIGRP,OSPF,BGP,SPANNING TREE,WIRELESS,NAT|  <a href="<ahttps://github.com/MartinOmariba/packet_tracer_ccna</a>
 | Network security configuration i.e vpn,firewalls| Networking labs|
 | Network scripting and automation | <a href="<a https://github.com/MartinOmariba/Automation_scripts</a>
 | ansible for networking devices | <a href="<a https://github.com/MartinOmariba/ansible_automation</a>
@@ -98,6 +98,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 -  <a href="<a https://github.com/MartinOmariba/Automation_scripts</a>
 -  <a href="<a https://github.com/MartinOmariba/ansible_automation</a>
 -  <a href="<a https://github.com/MartinOmariba/beisa_oryx</a>
+- <a href="<ahttps://github.com/MartinOmariba/packet_tracer_ccna</a>
 - Automated Network Security Auditing
 - Network Device Health Monitoring & Alerting
 - SOC Playbook Automation with SOAR
