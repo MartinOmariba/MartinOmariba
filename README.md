@@ -22,7 +22,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Network security configuration i.e vpn,firewalls| Networking labs|
 | Network scripting and automation | <a href="<a https://github.com/MartinOmariba/Automation_scripts</a>
 | ansible for networking devices | <a href="<a https://github.com/MartinOmariba/ansible_automation</a>
-| Python web application for networking devices | NetDevOps Labs|
+| Python web application for networking devices | <a href="<a https://github.com/MartinOmariba/beisa_oryx</a>
 
 
 ## Tools
@@ -97,6 +97,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - Dynamic Network Inventory System
 -  <a href="<a https://github.com/MartinOmariba/Automation_scripts</a>
 -  <a href="<a https://github.com/MartinOmariba/ansible_automation</a>
+-  <a href="<a https://github.com/MartinOmariba/beisa_oryx</a>
 - Automated Network Security Auditing
 - Network Device Health Monitoring & Alerting
 - SOC Playbook Automation with SOAR
