@@ -20,7 +20,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 | Network protovols configuration i.e EIGRP,OSPF,BGP,SPANNING TREE,WIRELESS,NAT| Networking labs|
 | Network security configuration i.e vpn,firewalls| Networking labs|
-| Network scripting and automation | <a href="<a href="https://google.com">Detection Lab</a>|">Automation Lab</a>
+| Network scripting and automation | <a href="<a https://github.com/MartinOmariba/Automation_scripts</a>
 | Python web application for networking devices | NetDevOps Labs|
 
 
@@ -94,7 +94,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - Detection Lab
 - SOC Automation Project
 - Dynamic Network Inventory System
-- <a href="<a href="https://google.com">Detection Lab</a>|">Automation Lab</a>
+-  <a href="<a https://github.com/MartinOmariba/Automation_scripts</a>
 - Automated Network Security Auditing
 - Network Device Health Monitoring & Alerting
 - SOC Playbook Automation with SOAR
