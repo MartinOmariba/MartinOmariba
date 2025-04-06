@@ -113,10 +113,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
  My collection of professional badges showcases my commitment to continuous learning, technical expertise, and industry-recognized achievements. These badges represent successfully completed certifications, courses, and hands-on labs across areas such as network engineering, cybersecurity, DevOps, cloud technologies, and programming. Each badge is a verified credential earned through reputable platforms and demonstrates proficiency in both foundational and advanced technical skills.
 
-## 📡 API & Automation
 
-![API Fundamentals](https://i.imgur.com/Nj0v2gZ.png)
-*API Fundamentals – Demonstrates foundational knowledge of APIs, their use in automation, and integration concepts.*
 
 
  
