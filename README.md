@@ -107,3 +107,16 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - Phishing Email Analysis & Detection
 - Automated Malware Analysis Sandbox
 - Network Traffic Analysis & Anomaly Detection
+
+
+##  Badges
+
+ My collection of professional badges showcases my commitment to continuous learning, technical expertise, and industry-recognized achievements. These badges represent successfully completed certifications, courses, and hands-on labs across areas such as network engineering, cybersecurity, DevOps, cloud technologies, and programming. Each badge is a verified credential earned through reputable platforms and demonstrates proficiency in both foundational and advanced technical skills.
+
+<div>
+    <img src="https://imgur.com/a/q8uyHNb>
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+ 
